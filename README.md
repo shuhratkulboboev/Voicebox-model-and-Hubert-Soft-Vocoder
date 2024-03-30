@@ -24,14 +24,7 @@ Original Text: Field agents supplement those on the detail, particularly when th
 
 Edited Text: Field agents supplement those on the detail, particularly when the <font color="#660000">Prime Minister</font> is traveling.
 
-AIShell3:
 
-Original Text: 夺得队史第五座 <font color="#660000">中</font>超冠军
-
-Edited Text: 夺得队史第五座 <font color="#660000">英</font>超冠军
-
-
-Note: aishell3's edited.wav is not good enough, because vocoder i used need more steps to converge.
 
 ## Checkpoint
 
@@ -48,17 +41,4 @@ pip install lightning[extra] torch torchaudio tgt vocos torchdiffeq torchode ein
  ```   
  Next, navigate to examples, check README and run it.
 
-## TODO
-- [] try other universal vocoder
-- [] try other alignment tools
-- [] train duration model
 
-### Citation   
-```
-@article{YourName,
-  title={Your Title},
-  author={Your team},
-  journal={Location},
-  year={Year}
-}
-```   
