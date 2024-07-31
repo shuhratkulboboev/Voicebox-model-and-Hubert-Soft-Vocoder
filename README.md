@@ -7,7 +7,7 @@
 </div>
 
 ## Description
-Unofficial implementation of Voicebox.
+Unofficial implementation of Voicebox.I published the paper at the conference in Budapest. My paper is called "Improving Speech Naturalness and Nuance using HiFiGAN-Hubert-Soft Vocoder A Case Study of the Voicebox TTS Model". It was uploaded above.Here is links :https://repozitorium.omikk.bme.hu/items/160dfe9a-a809-421c-8e7b-4f78d95ba85c 
 
 Core codes from [lucidrains/voicebox-pytorch](https://github.com/lucidrains/voicebox-pytorch). I do not use voicebox-pytorch pypi release, instead put it in this repository just for convenient.
 
